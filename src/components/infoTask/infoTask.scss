@@ -1,0 +1,48 @@
+.dve {
+  &__infotask {
+    border: 1px solid black;
+    padding: 3px;
+    position: relative;
+  }
+
+  &__info {
+  }
+}
+.info {
+  &__number {
+    margin-bottom: 10px;
+  }
+
+  &__status {
+    margin-bottom: 10px;
+  }
+
+  &__description {
+    margin-bottom: 10px;
+  }
+
+  &__responsibleemployee {
+    margin-bottom: 10px;
+  }
+
+  &__counterparty {
+    margin-bottom: 10px;
+  }
+
+  &__comments {
+    margin-bottom: 10px;
+  }
+
+  &__commenttitle {
+    margin-bottom: 10px;
+  }
+
+  &__comment {
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+  }
+
+  span {
+    font-weight: 700;
+  }
+}

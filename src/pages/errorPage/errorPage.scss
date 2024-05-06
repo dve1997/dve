@@ -1,0 +1,14 @@
+.spares {
+  &__error {
+    text-align: center;
+    width: 100%;
+
+    & h3 {
+      margin-bottom: 15px;
+    }
+
+    & img {
+      margin-bottom: 15px;
+    }
+  }
+}

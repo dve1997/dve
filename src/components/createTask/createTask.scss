@@ -1,0 +1,61 @@
+.dve {
+  &__createtask {
+    border: 1px solid black;
+    padding: 3px;
+  }
+
+  &__create {
+    & > button {
+      cursor: pointer;
+    }
+  }
+}
+
+.create {
+  &__description {
+    & > label {
+      font-weight: 700;
+      margin: 0 0 10px;
+    }
+  }
+
+  &__descriptionfield {
+    width: 90%;
+    height: 130px;
+    margin: 0 0 10px;
+  }
+
+  &__responsibleemployee {
+    & > label {
+      font-weight: 700;
+      margin: 0 0 10px;
+    }
+  }
+
+  &__responsibleemployeefield {
+    width: 90%;
+    margin: 0 0 10px;
+  }
+
+  &__comment {
+    & > label {
+      font-weight: 700;
+      margin: 0 0 10px;
+    }
+  }
+
+  &__commentsfield {
+    width: 90%;
+    height: 130px;
+    margin: 0 0 10px;
+  }
+
+  &__invalid {
+    color: red;
+    margin-bottom: 10px;
+  }
+
+  &__btn {
+    cursor: pointer;
+  }
+}
