@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dve/static/css/main.5ff4365b.css",
+    "main.js": "/dve/static/js/main.eb4f1a86.js",
+    "static/media/dve.jpg": "/dve/static/media/dve.e80e48678e3b8b741316.jpg",
+    "index.html": "/dve/index.html",
+    "main.5ff4365b.css.map": "/dve/static/css/main.5ff4365b.css.map",
+    "main.eb4f1a86.js.map": "/dve/static/js/main.eb4f1a86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff4365b.css",
+    "static/js/main.eb4f1a86.js"
+  ]
+}
