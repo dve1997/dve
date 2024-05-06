@@ -6,5 +6,5 @@
 * npm json-server, все данные передаются через сервер (используются запросы POST, GET, PATCH, DELETE)
 * npm response-transition-group, анимация модальных окон
 * npm formik + npm да, создание форм
-* npm реакции-шлем, SEO оптимизация
+* npm helmet, SEO оптимизация
 * дополнительно еще используется ряд пакетов npm
